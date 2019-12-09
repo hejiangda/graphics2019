@@ -20,7 +20,7 @@
 
 参考《Game Programming using Qt 5 Beginner's Guide - Second Edition》第9章
 
-参考的配置代码：[Chapter09/OpenGL and Vulkan in Qt applications/2. scene](https://github.com/PacktPublishing/Game-Programming-Using-Qt-5-Beginners-Guide-Second-Edition/tree/master/Chapter09/OpenGL and Vulkan in Qt applications/2. scene) 
+参考的配置代码：[Chapter09/OpenGL and Vulkan in Qt applications/2. scene](https://github.com/PacktPublishing/Game-Programming-Using-Qt-5-Beginners-Guide-Second-Edition/tree/master/Chapter09/OpenGL%20and%20Vulkan%20in%20Qt%20applications/2.%20scene) 
 
 ## 作业1完成情况：
 
@@ -28,7 +28,7 @@
 + 实现了立方体的绘制
 + 实现了相机控制
 
-作业1参考教程：[LearnOpenGL](https://learnopengl-cn.github.io/01 Getting started/09 Camera/)
+作业1参考教程：[LearnOpenGL](https://learnopengl-cn.github.io/01%20Getting%20started/09%20Camera/)
 
 ### 作业成果：
 
