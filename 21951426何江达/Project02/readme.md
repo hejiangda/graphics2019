@@ -51,4 +51,5 @@
 + 实现了自转和公转
 + 使用着色器实现了拾取功能，实现了点击球体改变球体的光照达到高亮显示的效果
 
-![solarSystem](./solarSystem.gif)
+![solarSystem](./solarSystemWithoutSpecular.gif)
+
